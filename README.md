@@ -20,8 +20,8 @@ En plus de l'IA et du Cloud Computing, Nyotah vous forme sur des technologies te
 ## Démos
 
 ### Demo 1
-[Voir la vidéo de la conception initiale](lien_demo_1)
+[Voir la vidéo de la conception initiale](https://youtube.com/shorts/TyKCKtzZi_g?feature=share)
 
 ### Demo 2
-[Voir la vidéo de l'évolution du design](lien_demo_2)
+[Voir la vidéo de l'évolution du design](https://youtu.be/xCJAUZtSdNM)
 
